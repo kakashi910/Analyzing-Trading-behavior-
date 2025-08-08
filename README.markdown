@@ -1,4 +1,4 @@
-# Data Science Assignment - Web3 Trading Team
+# Web3 Trading 
 
 ## Overview
 This repository contains the analysis of trading behavior against market sentiment (Fear vs. Greed) for the Web3 Trading Team's data science assignment. The analysis is implemented in a Google Colab notebook (`notebook_1.ipynb`) and uses two datasets: the Bitcoin Market Sentiment Dataset and Historical Trader Data from Hyperliquid.
