@@ -55,5 +55,3 @@ ds_<candidate_name>/
 - **Data Loading**: Local files are used for simplicity, but URLs can be used if sheets are publicly accessible. Ensure proper sharing settings.
 - **Submission**: Replace `<candidate_name>` with your name (e.g., `ds_johndoe`). Share the Colab notebook link and GitHub repository as instructed.
 - **Extensions**: Consider adding leverage analysis (`Leverage` column, if available) or lagged sentiment effects for deeper insights.
-
-For issues, refer to the notebook comments or contact [candidate email].
